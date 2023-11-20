@@ -1,0 +1,12 @@
+
+.sample{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    padding:5%;
+    background-color: rgb(255, 183, 183);
+    
+}
